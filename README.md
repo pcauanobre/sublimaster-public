@@ -2,7 +2,7 @@
 
 # SubliMaster: CorelDRAW automation for sublimation print shops
 
-> **📌 View-only repository.** SubliMaster is a commercial product and its full source code is private. This repo exists to **showcase the project**: the README below shows what it does, and the `.py` files here are early-generation sample scripts kept for reference. The product itself is distributed as a Windows installer at **[sublimaster-releases.vercel.app](https://sublimaster-releases.vercel.app)**.
+> **📌 View-only repository.** SubliMaster is a commercial product and its full source code is private. This repo exists to **showcase the project**: the README below shows what it does, and the `.py` files here are early-generation sample scripts kept for reference. The product itself is distributed as a Windows installer at **[sublimaster-tech.vercel.app](https://sublimaster-tech.vercel.app)**.
 
 ![SubliMaster](media/capa.png)
 
@@ -59,7 +59,7 @@ A visual manager queries the shop's order API, builds the queue and drives the p
 | **39** | releases shipped via auto-update |
 | **15** | template sizes, from kids' to 3XL |
 
-🔗 **Product page / download:** [sublimaster-releases.vercel.app](https://sublimaster-releases.vercel.app)
+🔗 **Product page / download:** [sublimaster-tech.vercel.app](https://sublimaster-tech.vercel.app)
 
 ---
 
@@ -67,7 +67,7 @@ A visual manager queries the shop's order API, builds the queue and drives the p
 
 # SubliMaster: automação de CorelDRAW pra gráficas de sublimação
 
-> **📌 Repositório só de visualização.** O SubliMaster é um produto comercial e o código-fonte completo é privado. Este repo existe pra **apresentar o projeto**: o README abaixo mostra o que ele faz, e os arquivos `.py` daqui são scripts de amostra da primeira geração, mantidos como referência. O produto em si é distribuído como instalador Windows em **[sublimaster-releases.vercel.app](https://sublimaster-releases.vercel.app)**.
+> **📌 Repositório só de visualização.** O SubliMaster é um produto comercial e o código-fonte completo é privado. Este repo existe pra **apresentar o projeto**: o README abaixo mostra o que ele faz, e os arquivos `.py` daqui são scripts de amostra da primeira geração, mantidos como referência. O produto em si é distribuído como instalador Windows em **[sublimaster-tech.vercel.app](https://sublimaster-tech.vercel.app)**.
 
 ![SubliMaster](media/capa.png)
 
@@ -124,4 +124,4 @@ Um gestor visual consulta a API de pedidos da gráfica, monta a fila e comanda o
 | **39** | releases entregues por auto-update |
 | **15** | tamanhos de molde, do infantil ao XG2 |
 
-🔗 **Página do produto / download:** [sublimaster-releases.vercel.app](https://sublimaster-releases.vercel.app)
+🔗 **Página do produto / download:** [sublimaster-tech.vercel.app](https://sublimaster-tech.vercel.app)
